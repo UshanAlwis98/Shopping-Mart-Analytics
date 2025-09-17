@@ -31,27 +31,30 @@
 
 🔥 **_Tech Stack & Tools_**
 
-<table >
-<tr>
-  <th align="center" width="50%"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="40" height="40"/> </a></th>
 
+    - Python
+    - Pyspark
+    - Microsoft Fabric
+    - Microsoft Power BI
+    - Silver Layer Notebook
+    - Gold Layer Notebook
 
-
-</tr>
-</table>
   
   🎯 **_Goals_**
 
-      🎨 Improve UI/UX with CSS animations & styling
-      🖥️ Build responsive layouts
-      📝 Understand semantic HTML
-      💡 Experiment with modern CSS techniques
+    📚 Learn Data Engineering Concepts
+    🧹 Data Cleaning and Preprocessing
+    🔄 Data Transformation using PySpark
+    📊 Getting Data-Driven Decisions
 
 📌 **_How to Use ?_**
 
-      1️⃣ Clone the repository
-      2️⃣ Open .html files in your browser
-      3️⃣ Modify .css files to experiment with styles
+      1️⃣ Create Workspace in Microsoft Fabric
+      2️⃣ Use Medallion Architecture
+      3️⃣ Load CSV and JSON data files
+      4️⃣ Create Notebooks and implement the relevant code in this repo
+      5️⃣ Create Data Modelling Relationships
+      6️⃣ Visualize in Power BI Dashboard
 
 📬 **_Contact & Connect_**
 
@@ -61,7 +64,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&letterSpacing=8px&pause=1000&color=CCD713&background=FF306200&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Happy+Coding++!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&letterSpacing=8px&pause=1000&color=CCD713&background=FF306200&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Good+Luck++!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
   
