@@ -19,8 +19,9 @@
 💡 **_Key things Learn_**
 
 
-        I built an end-to-end data engineering project using Microsoft Fabric, leveraging concepts from the Medallion Architecture, 
-        Data Engineering Workload, Delta Tables, Delta Parquet Format, Lakehouse, and Data Warehouse.
+        I built an end-to-end data engineering project using Microsoft Fabric, leveraging concepts from the 
+        Medallion Architecture, Data Engineering Workload, Delta Tables, Delta Parquet Format, Lakehouse, 
+        and Data Warehouse.
 
       ✅ Medallion Architecture
       ✅ Data Warehouse
